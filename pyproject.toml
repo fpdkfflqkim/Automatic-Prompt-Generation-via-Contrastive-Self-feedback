@@ -1,7 +1,7 @@
 [project]
 name = "automatic-prompt-generation-via-contrastive-self-feedback"
 version = "0.1.0"
-description = "Add your description here"
+description = "End-to-end pipeline for automatic instruction optimization in automated essay scoring using contrastive self-feedback with large language models."
 readme = "README.md"
 requires-python = ">=3.13"
 dependencies = [
