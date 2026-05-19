@@ -1,3 +1,4 @@
 # Virtual environments
 .venv
 .python-version
+.gitignore
